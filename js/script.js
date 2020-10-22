@@ -31,7 +31,7 @@ const submitForm = (event) => {
 
   /* petla for - rowniez polecona przez Krystiana*/
   for (let i = 0; i < 1; i++) {
-    console.log('Imie:' + form[0].value);
+    console.log('Imie: ' + form[0].value);
     console.log('Nazwisko: ' + form[1].value);
   }
 }
